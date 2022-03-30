@@ -10,9 +10,9 @@
  */
 function calculate () {
   // input
-  const a = parseInt(document.getElementById('base-a-of-trapezoid').value)
-  const b = parseInt(document.getElementById('base-b-of-trapezoid').value)    
-  const height = parseInt(document.getElementById('height-of-trapezoid').value)
+  const a = parseInt(document.getElementById("base-a-of-trapezoid").value)
+  const b = parseInt(document.getElementById("base-b-of-trapezoid").value)    
+  const height = parseInt(document.getElementById("height-of-trapezoid").value)
 
   // process
   const area = [ ( a + b ) / 2 * height ]
