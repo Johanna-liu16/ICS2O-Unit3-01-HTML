@@ -6,7 +6,7 @@
 
 'use strict'
 /**
- * This function calculates area of a parrallelogram.
+ * This function calculates area of a trapezoid.
  */
 function calculate () {
   // input
